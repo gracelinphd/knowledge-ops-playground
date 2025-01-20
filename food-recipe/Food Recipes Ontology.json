@@ -1,0 +1,4649 @@
+{
+  "style": {
+    "font-family": "sans-serif",
+    "background-color": "#ffffff",
+    "background-image": "",
+    "background-size": "100%",
+    "node-color": "#ffffff",
+    "border-width": 4,
+    "border-color": "#000000",
+    "radius": 50,
+    "node-padding": 5,
+    "node-margin": 2,
+    "outside-position": "auto",
+    "node-icon-image": "",
+    "node-background-image": "",
+    "icon-position": "inside",
+    "icon-size": 64,
+    "caption-position": "inside",
+    "caption-max-width": 200,
+    "caption-color": "#000000",
+    "caption-font-size": 50,
+    "caption-font-weight": "normal",
+    "label-position": "inside",
+    "label-display": "pill",
+    "label-color": "#000000",
+    "label-background-color": "#ffffff",
+    "label-border-color": "#000000",
+    "label-border-width": 4,
+    "label-font-size": 40,
+    "label-padding": 5,
+    "label-margin": 4,
+    "directionality": "directed",
+    "detail-position": "inline",
+    "detail-orientation": "parallel",
+    "arrow-width": 5,
+    "arrow-color": "#000000",
+    "margin-start": 5,
+    "margin-end": 5,
+    "margin-peer": 20,
+    "attachment-start": "normal",
+    "attachment-end": "normal",
+    "relationship-icon-image": "",
+    "type-color": "#000000",
+    "type-background-color": "#ffffff",
+    "type-border-color": "#000000",
+    "type-border-width": 0,
+    "type-font-size": 16,
+    "type-padding": 5,
+    "property-position": "outside",
+    "property-alignment": "colon",
+    "property-color": "#000000",
+    "property-font-size": 16,
+    "property-font-weight": "normal"
+  },
+  "nodes": [
+    {
+      "id": "n0",
+      "position": {
+        "x": -46.63887676859375,
+        "y": -447.254618333292
+      },
+      "caption": "Tags",
+      "labels": [
+        "Tags"
+      ],
+      "properties": {
+        "Name": "Tags"
+      },
+      "style": {
+        "node-color": "#fe9200"
+      }
+    },
+    {
+      "id": "n1",
+      "position": {
+        "x": -442.5724859512129,
+        "y": -672.73016222146
+      },
+      "caption": "Course",
+      "labels": [
+        "Category"
+      ],
+      "properties": {
+        "Name": "Course"
+      },
+      "style": {
+        "node-color": "#fa28ff"
+      }
+    },
+    {
+      "id": "n2",
+      "position": {
+        "x": -510.5145078791166,
+        "y": -411.5261355897625
+      },
+      "caption": "Technique",
+      "labels": [
+        "Category"
+      ],
+      "properties": {
+        "Name": "Technique"
+      },
+      "style": {
+        "node-color": "#fa28ff"
+      }
+    },
+    {
+      "id": "n3",
+      "position": {
+        "x": -112.25862654786536,
+        "y": -197.6131402125758
+      },
+      "caption": "Occasion",
+      "labels": [
+        "Category"
+      ],
+      "properties": {
+        "Name": "Occasion"
+      },
+      "style": {
+        "node-color": "#fa28ff"
+      }
+    },
+    {
+      "id": "n4",
+      "position": {
+        "x": 127.63689728881306,
+        "y": -584.1122562926176
+      },
+      "caption": "Cuisine",
+      "labels": [
+        "Category"
+      ],
+      "properties": {
+        "Name": "Cuisine"
+      },
+      "style": {
+        "node-color": "#fa28ff"
+      }
+    },
+    {
+      "id": "n5",
+      "position": {
+        "x": -566.4667975199031,
+        "y": -1253.8682342323443
+      },
+      "caption": "Appetizers",
+      "labels": [
+        "Course"
+      ],
+      "properties": {
+        "Name": "Appetizers"
+      },
+      "style": {
+        "node-color": "#808900"
+      }
+    },
+    {
+      "id": "n6",
+      "position": {
+        "x": -716.0052805210087,
+        "y": -1299.036983122441
+      },
+      "caption": "Beverages",
+      "labels": [
+        "Course"
+      ],
+      "properties": {
+        "Name": "Beverages"
+      },
+      "style": {
+        "node-color": "#808900"
+      }
+    },
+    {
+      "id": "n7",
+      "position": {
+        "x": -1204.3799414534917,
+        "y": -197.6131402125758
+      },
+      "caption": "Cooking",
+      "labels": [
+        "Technique"
+      ],
+      "properties": {
+        "Name": "Cooking"
+      },
+      "style": {
+        "node-color": "#fcdc00",
+        "caption-color": "#000000",
+        "label-color": "#000000"
+      }
+    },
+    {
+      "id": "n8",
+      "position": {
+        "x": -1025.6528841822833,
+        "y": -16.607019106177063
+      },
+      "caption": "Food Preservation",
+      "labels": [
+        "Technique"
+      ],
+      "properties": {
+        "Name": "Food Preservation"
+      },
+      "style": {
+        "node-color": "#fcdc00",
+        "caption-color": "#4d4d4d",
+        "label-color": "#000000"
+      }
+    },
+    {
+      "id": "n9",
+      "position": {
+        "x": -1597.7963150341063,
+        "y": -490.2085003840491
+      },
+      "caption": "Cooking with Oil",
+      "labels": [
+        "Technique"
+      ],
+      "properties": {
+        "Name": "Cooking with Oil"
+      },
+      "style": {
+        "node-color": "#fcdc00",
+        "caption-color": "#000000",
+        "label-color": "#000000"
+      }
+    },
+    {
+      "id": "n10",
+      "position": {
+        "x": -1651.119626559801,
+        "y": -269.16799776522333
+      },
+      "caption": "Cooking with Wet Heat",
+      "labels": [
+        "Technique"
+      ],
+      "properties": {
+        "Name": "Cooking with Wet Heat"
+      },
+      "style": {
+        "node-color": "#fcdc00",
+        "caption-color": "#000000",
+        "label-color": "#000000"
+      }
+    },
+    {
+      "id": "n11",
+      "position": {
+        "x": -1492.1431936988677,
+        "y": 127.8245235794634
+      },
+      "caption": "Cooking with Dry Heat",
+      "labels": [
+        "Technique"
+      ],
+      "properties": {
+        "Name": "Cooking with Dry Heat"
+      },
+      "style": {
+        "node-color": "#fcdc00",
+        "caption-color": "#000000",
+        "label-color": "#000000"
+      }
+    },
+    {
+      "id": "n12",
+      "position": {
+        "x": -46.63887676859375,
+        "y": 25.12608358080714
+      },
+      "caption": "South America",
+      "labels": [
+        "Occasion_Location"
+      ],
+      "properties": {
+        "Name": "South America"
+      },
+      "style": {
+        "node-color": "#f44e3b"
+      }
+    },
+    {
+      "id": "n13",
+      "position": {
+        "x": -267.265908597716,
+        "y": 25.12608358080714
+      },
+      "caption": "North America",
+      "labels": [
+        "Occasion_Location"
+      ],
+      "properties": {
+        "Name": "North America"
+      },
+      "style": {
+        "node-color": "#f44e3b"
+      }
+    },
+    {
+      "id": "n14",
+      "position": {
+        "x": -331.7577080317054,
+        "y": 233.63267207457068
+      },
+      "caption": "U.S.",
+      "labels": [
+        "Occasion_Location"
+      ],
+      "properties": {
+        "Name": "U.S."
+      },
+      "style": {
+        "node-color": "#f44e3b"
+      }
+    },
+    {
+      "id": "n15",
+      "position": {
+        "x": -733.0491530997228,
+        "y": 545.4809089996124
+      },
+      "caption": "Seasonal",
+      "labels": [
+        "Occasion"
+      ],
+      "properties": {
+        "Name": "Seasonal"
+      },
+      "style": {
+        "node-color": "#73d8ff"
+      }
+    },
+    {
+      "id": "n16",
+      "position": {
+        "x": -546.1533204280893,
+        "y": 545.4809089996123
+      },
+      "caption": "Event",
+      "labels": [
+        "Occasion"
+      ],
+      "properties": {
+        "Name": "Event"
+      },
+      "style": {
+        "node-color": "#73d8ff"
+      }
+    },
+    {
+      "id": "n17",
+      "position": {
+        "x": -112.25862654786536,
+        "y": 554.0213509852724
+      },
+      "caption": "Holiday",
+      "labels": [
+        "Occasion"
+      ],
+      "properties": {
+        "Name": "Holiday"
+      },
+      "style": {
+        "node-color": "#73d8ff"
+      }
+    },
+    {
+      "id": "n18",
+      "position": {
+        "x": -394.23379096422053,
+        "y": 1124.0058040789443
+      },
+      "caption": "Ramadan",
+      "labels": [
+        "Occasion"
+      ],
+      "properties": {
+        "Name": "Ramadan"
+      },
+      "style": {
+        "node-color": "#73d8ff"
+      }
+    },
+    {
+      "id": "n19",
+      "position": {
+        "x": -368.03261371139905,
+        "y": 1316.9637812486608
+      },
+      "caption": "Rosh Hashanah",
+      "labels": [
+        "Occasion"
+      ],
+      "properties": {
+        "Name": "Rosh Hashanah"
+      },
+      "style": {
+        "node-color": "#73d8ff"
+      }
+    },
+    {
+      "id": "n20",
+      "position": {
+        "x": -341.7799336786572,
+        "y": 1593.2066217409933
+      },
+      "caption": "Diwali",
+      "labels": [
+        "Occasion"
+      ],
+      "properties": {
+        "Name": "Diwali"
+      },
+      "style": {
+        "node-color": "#73d8ff"
+      }
+    },
+    {
+      "id": "n21",
+      "position": {
+        "x": -286.82719634295063,
+        "y": 1821.3093724766181
+      },
+      "caption": "Easter",
+      "labels": [
+        "Occasion"
+      ],
+      "properties": {
+        "Name": "Easter"
+      },
+      "style": {
+        "node-color": "#73d8ff"
+      }
+    },
+    {
+      "id": "n22",
+      "position": {
+        "x": -177.21532128892704,
+        "y": 1635.8685310400108
+      },
+      "caption": "Christmas",
+      "labels": [
+        "Occasion"
+      ],
+      "properties": {
+        "Name": "Christmas"
+      },
+      "style": {
+        "node-color": "#73d8ff"
+      }
+    },
+    {
+      "id": "n23",
+      "position": {
+        "x": -46.63887676859375,
+        "y": 1876.1172157989222
+      },
+      "caption": "4th of July",
+      "labels": [
+        "Occasion"
+      ],
+      "properties": {
+        "Name": "4th of July"
+      },
+      "style": {
+        "node-color": "#73d8ff"
+      }
+    },
+    {
+      "id": "n24",
+      "position": {
+        "x": 36.253166493699574,
+        "y": 1717.516882761249
+      },
+      "caption": "Halloween",
+      "labels": [
+        "Occasion"
+      ],
+      "properties": {
+        "Name": "Halloween"
+      },
+      "style": {
+        "node-color": "#73d8ff"
+      }
+    },
+    {
+      "id": "n25",
+      "position": {
+        "x": 92.5,
+        "y": 1573.5984323570233
+      },
+      "caption": "Labor Day",
+      "labels": [
+        "Occasion"
+      ],
+      "properties": {
+        "Name": "Labor Day"
+      },
+      "style": {
+        "node-color": "#73d8ff"
+      }
+    },
+    {
+      "id": "n26",
+      "position": {
+        "x": 178.43008805745583,
+        "y": 1429.4761865470869
+      },
+      "caption": "Hanukkah",
+      "labels": [
+        "Occasion"
+      ],
+      "properties": {
+        "Name": "Hanukkah"
+      },
+      "style": {
+        "node-color": "#73d8ff"
+      }
+    },
+    {
+      "id": "n27",
+      "position": {
+        "x": 347.7213419932532,
+        "y": 1599.338631415769
+      },
+      "caption": "Memorial Day",
+      "labels": [
+        "Occasion"
+      ],
+      "properties": {
+        "Name": "Memorial Day"
+      },
+      "style": {
+        "node-color": "#73d8ff"
+      }
+    },
+    {
+      "id": "n28",
+      "position": {
+        "x": 381.3020406435119,
+        "y": 1429.4761865470869
+      },
+      "caption": "Lunar New Year",
+      "labels": [
+        "Occasion"
+      ],
+      "properties": {
+        "Name": "Lunar New Year"
+      },
+      "style": {
+        "node-color": "#73d8ff"
+      }
+    },
+    {
+      "id": "n29",
+      "position": {
+        "x": 381.3020406435119,
+        "y": 883.5665329720129
+      },
+      "caption": "Passover",
+      "labels": [
+        "Occasion"
+      ],
+      "properties": {
+        "Name": "Passover"
+      },
+      "style": {
+        "node-color": "#73d8ff"
+      }
+    },
+    {
+      "id": "n30",
+      "position": {
+        "x": 416.76296917224806,
+        "y": 1094.4214500106607
+      },
+      "caption": "New Year's Day",
+      "labels": [
+        "Occasion"
+      ],
+      "properties": {
+        "Name": "New Year's Day"
+      },
+      "style": {
+        "node-color": "#73d8ff"
+      }
+    },
+    {
+      "id": "n31",
+      "position": {
+        "x": 347.7213419932532,
+        "y": 722.6313030229296
+      },
+      "caption": "Thanksgiving",
+      "labels": [
+        "Occasion"
+      ],
+      "properties": {
+        "Name": "Thanksgiving"
+      },
+      "style": {
+        "node-color": "#73d8ff"
+      }
+    },
+    {
+      "id": "n32",
+      "position": {
+        "x": 435.94576037103377,
+        "y": 1277.8850267549842
+      },
+      "caption": "St. Patrick's Day",
+      "labels": [
+        "Occasion"
+      ],
+      "properties": {
+        "Name": "St. Patrick's Day"
+      },
+      "style": {
+        "node-color": "#73d8ff"
+      }
+    },
+    {
+      "id": "n33",
+      "position": {
+        "x": 307.500338965045,
+        "y": 573.673961163013
+      },
+      "caption": "Valentine",
+      "labels": [
+        "Occasion"
+      ],
+      "properties": {
+        "Name": "Valentine"
+      },
+      "style": {
+        "node-color": "#73d8ff"
+      }
+    },
+    {
+      "id": "n34",
+      "position": {
+        "x": -1255.7869515387526,
+        "y": 1233.939976577114
+      },
+      "caption": "Spring",
+      "labels": [
+        "Occasion"
+      ],
+      "properties": {
+        "Name": "Spring"
+      },
+      "style": {
+        "node-color": "#73d8ff"
+      }
+    },
+    {
+      "id": "n35",
+      "position": {
+        "x": -1255.7869515387526,
+        "y": 1041.4940332264955
+      },
+      "caption": "Winter",
+      "labels": [
+        "Occasion"
+      ],
+      "properties": {
+        "Name": "Winter"
+      },
+      "style": {
+        "node-color": "#73d8ff"
+      }
+    },
+    {
+      "id": "n36",
+      "position": {
+        "x": -977.4771251455326,
+        "y": 1041.4940332264955
+      },
+      "caption": "Fall",
+      "labels": [
+        "Occasion"
+      ],
+      "properties": {
+        "Name": "Fall"
+      },
+      "style": {
+        "node-color": "#73d8ff"
+      }
+    },
+    {
+      "id": "n37",
+      "position": {
+        "x": -794.3233228407353,
+        "y": 833.9405538315555
+      },
+      "caption": "Summer",
+      "labels": [
+        "Occasion"
+      ],
+      "properties": {
+        "Name": "Summer"
+      },
+      "style": {
+        "node-color": "#73d8ff"
+      }
+    },
+    {
+      "id": "n38",
+      "position": {
+        "x": -1071.1872369182872,
+        "y": 1454.8663280575104
+      },
+      "caption": "Game Day",
+      "labels": [
+        "Occasion"
+      ],
+      "properties": {
+        "Name": "Game Day"
+      },
+      "style": {
+        "node-color": "#73d8ff"
+      }
+    },
+    {
+      "id": "n39",
+      "position": {
+        "x": -1071.1872369182872,
+        "y": 1599.338631415769
+      },
+      "caption": "Cookouts",
+      "labels": [
+        "Occasion"
+      ],
+      "properties": {
+        "Name": "Cookouts"
+      },
+      "style": {
+        "node-color": "#73d8ff"
+      }
+    },
+    {
+      "id": "n40",
+      "position": {
+        "x": -848.2321360874323,
+        "y": 1635.8685310400108
+      },
+      "caption": "Baby Shower",
+      "labels": [
+        "Occasion"
+      ],
+      "properties": {
+        "Name": "Baby Shower"
+      },
+      "style": {
+        "node-color": "#73d8ff"
+      }
+    },
+    {
+      "id": "n41",
+      "position": {
+        "x": -896.8758584866787,
+        "y": 1454.8663280575104
+      },
+      "caption": "Bridal Shower",
+      "labels": [
+        "Occasion"
+      ],
+      "properties": {
+        "Name": "Bridal Shower"
+      },
+      "style": {
+        "node-color": "#73d8ff"
+      }
+    },
+    {
+      "id": "n42",
+      "position": {
+        "x": -628.4668155164102,
+        "y": 1635.8685310400108
+      },
+      "caption": "Back to School",
+      "labels": [
+        "Occasion"
+      ],
+      "properties": {
+        "Name": "Back to School"
+      },
+      "style": {
+        "node-color": "#73d8ff"
+      }
+    },
+    {
+      "id": "n43",
+      "position": {
+        "x": -716.0052805210087,
+        "y": 1479.5916830931724
+      },
+      "caption": "Graduation",
+      "labels": [
+        "Occasion"
+      ],
+      "properties": {
+        "Name": "Graduation"
+      },
+      "style": {
+        "node-color": "#73d8ff"
+      }
+    },
+    {
+      "id": "n44",
+      "position": {
+        "x": -471.7039025357516,
+        "y": 937.8656302444449
+      },
+      "caption": "Birthday",
+      "labels": [
+        "Occasion"
+      ],
+      "properties": {
+        "Name": "Birthday"
+      },
+      "style": {
+        "node-color": "#73d8ff"
+      }
+    },
+    {
+      "id": "n45",
+      "position": {
+        "x": -527.2009217366322,
+        "y": 1316.9637812486608
+      },
+      "caption": "Wedding",
+      "labels": [
+        "Occasion"
+      ],
+      "properties": {
+        "Name": "Wedding"
+      },
+      "style": {
+        "node-color": "#73d8ff"
+      }
+    },
+    {
+      "id": "n46",
+      "position": {
+        "x": 16.841975822265038,
+        "y": -776.0146894932824
+      },
+      "caption": "Cultural",
+      "labels": [
+        "Cuisine_Type"
+      ],
+      "properties": {
+        "Name": "Cultural"
+      },
+      "style": {
+        "node-color": "#fda1ff"
+      }
+    },
+    {
+      "id": "n47",
+      "position": {
+        "x": 435.94576037103377,
+        "y": -634.3467227823414
+      },
+      "caption": "Regional",
+      "labels": [
+        "Cuisine_Type"
+      ],
+      "properties": {
+        "Name": "Regional"
+      },
+      "style": {
+        "node-color": "#fda1ff"
+      }
+    },
+    {
+      "id": "n48",
+      "position": {
+        "x": -286.82719634295063,
+        "y": -1018.3713754049385
+      },
+      "caption": "Kid-Friendly",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Kid-Friendly"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n49",
+      "position": {
+        "x": -259.0468968660494,
+        "y": -1253.8682342323443
+      },
+      "caption": "Jewish",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Jewish"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n50",
+      "position": {
+        "x": -112.25862654786536,
+        "y": -1324.0153801101376
+      },
+      "caption": "Barbecue BBQ",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Kid-Friendly"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n51",
+      "position": {
+        "x": 279.50921334483684,
+        "y": -985.6546796296027
+      },
+      "caption": "North American",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "North American"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n52",
+      "position": {
+        "x": 629.7068584941019,
+        "y": -966.5308744871143
+      },
+      "caption": "Latin American",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Latin American"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n53",
+      "position": {
+        "x": 1340.0691314085777,
+        "y": -634.3467227823414
+      },
+      "caption": "Asian",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Asian"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n54",
+      "position": {
+        "x": 1311.1318219752252,
+        "y": -362.52241335952164
+      },
+      "caption": "Middle Eastern",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Middle Eastern"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n55",
+      "position": {
+        "x": 1182.1684139186873,
+        "y": -142.93048154439282
+      },
+      "caption": "European",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "European"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n56",
+      "position": {
+        "x": 976.5108345733877,
+        "y": 105.6725324887982
+      },
+      "caption": "Mediterranean",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Mediterranean"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n57",
+      "position": {
+        "x": 296.0239189550078,
+        "y": -142.93048154439282
+      },
+      "caption": "Oceanic",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Oceanic"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n58",
+      "position": {
+        "x": 654.2024162333353,
+        "y": 204.51444594278007
+      },
+      "caption": "African",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "African"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n59",
+      "position": {
+        "x": 452.2659085977161,
+        "y": -1221.0573150225575
+      },
+      "caption": "Mexican",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Mexican"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n60",
+      "position": {
+        "x": 228.92168522248545,
+        "y": -1324.0153801101376
+      },
+      "caption": "American",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "American"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n61",
+      "position": {
+        "x": 92.5,
+        "y": -1209.9019329657135
+      },
+      "caption": "Canadian",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Canadian"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n62",
+      "position": {
+        "x": -177.21532128892704,
+        "y": -1524.1851148858132
+      },
+      "caption": "Hawaiian",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Hawaiian"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n63",
+      "position": {
+        "x": -17.72364359421355,
+        "y": -1643.8362231217925
+      },
+      "caption": "Southern",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Southern"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n64",
+      "position": {
+        "x": 149.80690728456568,
+        "y": -1707.1820032190312
+      },
+      "caption": "Soul Food",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Soul Food"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n65",
+      "position": {
+        "x": 307.500338965045,
+        "y": -1707.1820032190312
+      },
+      "caption": "Cajun & Creole",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Cajun & Creole"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n67",
+      "position": {
+        "x": 465.1937706455243,
+        "y": -1668.2779382649946
+      },
+      "caption": "Southwestern",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Southwestern"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n68",
+      "position": {
+        "x": 601.5807118520424,
+        "y": -1587.1239140578393
+      },
+      "caption": "Native American",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Native American"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n69",
+      "position": {
+        "x": 698.6344413300496,
+        "y": -1348.628312838163
+      },
+      "caption": "Central American",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Central American"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n70",
+      "position": {
+        "x": 797.213789240576,
+        "y": -1707.1820032190312
+      },
+      "caption": "Guatemalan",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Guatemalan"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n71",
+      "position": {
+        "x": 934.3850354273065,
+        "y": -1785.696678800938
+      },
+      "caption": "Costa Rican",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Costa Rican"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n72",
+      "position": {
+        "x": 1102.2327854491705,
+        "y": -1785.696678800938
+      },
+      "caption": "Nicaraguan",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Nicaraguan"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n73",
+      "position": {
+        "x": 1144.7798125131876,
+        "y": -1499.6765690851948
+      },
+      "caption": "Honduran",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Honduran"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n74",
+      "position": {
+        "x": 1144.7798125131876,
+        "y": -1643.8362231217925
+      },
+      "caption": "Salvadoran",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Salvadoran"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n75",
+      "position": {
+        "x": 985.7969433625296,
+        "y": -1182.2876841109585
+      },
+      "caption": "Caribbean",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Caribbean"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n76",
+      "position": {
+        "x": 1182.1684139186873,
+        "y": -1068.912562724198
+      },
+      "caption": "Cuban",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Cuban"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n77",
+      "position": {
+        "x": 1315.326664887132,
+        "y": -1441.8803386090765
+      },
+      "caption": "Jamaican",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Jamaican"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n78",
+      "position": {
+        "x": 1495.4510892577744,
+        "y": -1383.0758566432187
+      },
+      "caption": "Puerto Rican",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Puerto Rican"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n79",
+      "position": {
+        "x": 1401.2347879323902,
+        "y": -1209.9019329657135
+      },
+      "caption": "Haitian",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Haitian"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n80",
+      "position": {
+        "x": 1311.1318219752252,
+        "y": -862.0539448737692
+      },
+      "caption": "South American",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "South American"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n81",
+      "position": {
+        "x": 1892.4078575170138,
+        "y": -1524.1851148858132
+      },
+      "caption": "Peruvian",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Peruvian"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n82",
+      "position": {
+        "x": 2110.1472559671224,
+        "y": -1553.2807486598563
+      },
+      "caption": "Chilean",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Chilean"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n83",
+      "position": {
+        "x": 2092.842210575261,
+        "y": -1412.9655218975688
+      },
+      "caption": "Colombian",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Colombian"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n84",
+      "position": {
+        "x": 2264.766014709679,
+        "y": -1441.8803386090765
+      },
+      "caption": "Venezuelan",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Venezuelan"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n85",
+      "position": {
+        "x": 2167.4844923022124,
+        "y": -1266.4878121541146
+      },
+      "caption": "Brazilian",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Brazilian"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n86",
+      "position": {
+        "x": 2064.474252886381,
+        "y": -1111.7427999942802
+      },
+      "caption": "Argentine",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Argentine"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n87",
+      "position": {
+        "x": 2110.1472559671224,
+        "y": -954.4365875757597
+      },
+      "caption": "Southeast Asian",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Southeast Asian"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n88",
+      "position": {
+        "x": 2398.577513657965,
+        "y": -1324.0153801101376
+      },
+      "caption": "Thai",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Thai"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n89",
+      "position": {
+        "x": 2570.564961338499,
+        "y": -1299.036983122441
+      },
+      "caption": "Filipino",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Filipino"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n90",
+      "position": {
+        "x": 2529.90345736208,
+        "y": -1163.2073442282426
+      },
+      "caption": "Vietnamese",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Vietnamese"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n91",
+      "position": {
+        "x": 2819.3070756657257,
+        "y": -1182.2876841109585
+      },
+      "caption": "Burmese",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Burmese"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n92",
+      "position": {
+        "x": 2721.9099039891153,
+        "y": -1054.0398209606365
+      },
+      "caption": "Malaysian",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Malaysian"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n93",
+      "position": {
+        "x": 2264.766014709679,
+        "y": -830.2046366249463
+      },
+      "caption": "East Asian",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "East Asian"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n94",
+      "position": {
+        "x": 2570.564961338499,
+        "y": -924.9703479510252
+      },
+      "caption": "Chinese",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "East Asian"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n95",
+      "position": {
+        "x": 2902.123878416064,
+        "y": -881.5632708761959
+      },
+      "caption": "Korean",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Korean"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n96",
+      "position": {
+        "x": 2745.6414766038883,
+        "y": -776.0146894932824
+      },
+      "caption": "Japanese",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Japanese"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n97",
+      "position": {
+        "x": 2308.2097769775633,
+        "y": -672.73016222146
+      },
+      "caption": "Central Asian",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Central Asian"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n98",
+      "position": {
+        "x": 2570.564961338499,
+        "y": -672.73016222146
+      },
+      "caption": "Uzbek",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Uzbek"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n99",
+      "position": {
+        "x": 2237.4360237179426,
+        "y": -524.0211561927006
+      },
+      "caption": "South Asian",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "South Asian"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n100",
+      "position": {
+        "x": 2570.564961338499,
+        "y": -490.2085003840491
+      },
+      "caption": "Indian",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Indian"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n101",
+      "position": {
+        "x": 1763.8159667914824,
+        "y": -447.2546183332918
+      },
+      "caption": "West Asian",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "West Asian"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n102",
+      "position": {
+        "x": 2529.90345736208,
+        "y": -362.52241335952164
+      },
+      "caption": "Israeli",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Israeli"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n103",
+      "position": {
+        "x": 2645.8603360216657,
+        "y": -197.6131402125758
+      },
+      "caption": "Persian",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Persian"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n104",
+      "position": {
+        "x": 2570.564961338499,
+        "y": -69.2648824825562
+      },
+      "caption": "Turkish",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Turkish"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n105",
+      "position": {
+        "x": 2453.0828403171286,
+        "y": 25.12608358080714
+      },
+      "caption": "Arabic",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Arabic"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n106",
+      "position": {
+        "x": 2264.766014709679,
+        "y": 76.89554008174504
+      },
+      "caption": "Palestinian",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Palestinian"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n107",
+      "position": {
+        "x": 1997.9083786558804,
+        "y": 127.8245235794634
+      },
+      "caption": "Northern European",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Northern European"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n108",
+      "position": {
+        "x": 2092.842210575261,
+        "y": 281.4069163379117
+      },
+      "caption": "Central European",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Central European"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n109",
+      "position": {
+        "x": 2021.2501414051821,
+        "y": 409.63702180402447
+      },
+      "caption": "Eastern European",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Eastern European"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n110",
+      "position": {
+        "x": 1803.0956268573293,
+        "y": 400.09896050949015
+      },
+      "caption": "Western European",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Western European"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n111",
+      "position": {
+        "x": 1414.8671506114697,
+        "y": 260.11555326459836
+      },
+      "caption": "Southern European",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Southern European"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n112",
+      "position": {
+        "x": 1654.4463813901912,
+        "y": 573.673961163013
+      },
+      "caption": "Portuguese",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Portuguese"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n113",
+      "position": {
+        "x": 1602.37431340785,
+        "y": 1018.3782086230958
+      },
+      "caption": "Spanish",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Spanish"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n114",
+      "position": {
+        "x": 1414.8671506114697,
+        "y": 916.6073780575572
+      },
+      "caption": "Greek",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Greek"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n115",
+      "position": {
+        "x": 1258.0925126426123,
+        "y": 745.1877005132583
+      },
+      "caption": "Italian",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Italian"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n116",
+      "position": {
+        "x": 1833.4753782675443,
+        "y": 962.6370761829547
+      },
+      "caption": "French",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "French"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n117",
+      "position": {
+        "x": 1974.7429897569464,
+        "y": 833.9405538315555
+      },
+      "caption": "Irish",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Irish"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n118",
+      "position": {
+        "x": 2216.826849039774,
+        "y": 1041.4940332264955
+      },
+      "caption": "English",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "English"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n119",
+      "position": {
+        "x": 2216.826849039774,
+        "y": 813.8301826919349
+      },
+      "caption": "Dutch",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Dutch"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n121",
+      "position": {
+        "x": 2216.826849039774,
+        "y": 646.9300775045473
+      },
+      "caption": "Russian",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Russian"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n122",
+      "position": {
+        "x": 2479.004711016796,
+        "y": 813.8301826919349
+      },
+      "caption": "Austrian",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Austrian"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n123",
+      "position": {
+        "x": 2529.90345736208,
+        "y": 646.9300775045473
+      },
+      "caption": "Polish",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Polish"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n124",
+      "position": {
+        "x": 2902.123878416064,
+        "y": 772.5710786299717
+      },
+      "caption": "German",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "German"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n125",
+      "position": {
+        "x": 2819.3070756657257,
+        "y": 619.9103537236897
+      },
+      "caption": "Hungarian",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Hungarian"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n126",
+      "position": {
+        "x": 2773.4758233324005,
+        "y": 373.63311415813564
+      },
+      "caption": "Danish",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Danish"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n127",
+      "position": {
+        "x": 2570.564961338499,
+        "y": 400.09896050949015
+      },
+      "caption": "Swedish",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Swedish"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n128",
+      "position": {
+        "x": 934.3850354273065,
+        "y": 436.5932001819978
+      },
+      "caption": "Central African",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Central African"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n129",
+      "position": {
+        "x": 1064.4671773236066,
+        "y": 1094.4214500106607
+      },
+      "caption": "North African",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "North African"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n130",
+      "position": {
+        "x": 887.169462547528,
+        "y": 1194.0990621735486
+      },
+      "caption": "East African",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "East African"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n131",
+      "position": {
+        "x": 722.3756598222831,
+        "y": 1194.0990621735486
+      },
+      "caption": "West African",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "West African"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n132",
+      "position": {
+        "x": 535.4570959069224,
+        "y": 482.8582155456281
+      },
+      "caption": "South African",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "South African"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n133",
+      "position": {
+        "x": 1340.0691314085777,
+        "y": 1429.4761865470869
+      },
+      "caption": "Egyptian",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Egyptian"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n134",
+      "position": {
+        "x": 1258.0925126426123,
+        "y": 1635.8685310400108
+      },
+      "caption": "Tunisian",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Tunisian"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n135",
+      "position": {
+        "x": 1102.2327854491705,
+        "y": 1746.548067873624
+      },
+      "caption": "Moroccan",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Moroccan"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n136",
+      "position": {
+        "x": 976.5108345733877,
+        "y": 1573.5984323570233
+      },
+      "caption": "Ethiopian",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Ethiopian"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n137",
+      "position": {
+        "x": 849.4420904165396,
+        "y": 1746.548067873624
+      },
+      "caption": "Guinean",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Guinean"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n138",
+      "position": {
+        "x": 722.3756598222831,
+        "y": 1984.2158823562465
+      },
+      "caption": "Nigerian",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Nigerian"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n139",
+      "position": {
+        "x": 601.5807118520424,
+        "y": 1795.2577110747677
+      },
+      "caption": "Senegalese",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Senegalese"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n140",
+      "position": {
+        "x": 381.3020406435119,
+        "y": 233.63267207457068
+      },
+      "caption": "New Zealand",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "New Zealand"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n141",
+      "position": {
+        "x": 127.63689728881306,
+        "y": 204.51444594278007
+      },
+      "caption": "Australian",
+      "labels": [
+        "Cuisine"
+      ],
+      "properties": {
+        "Name": "Australian"
+      },
+      "style": {
+        "node-color": "#b3b3b3"
+      }
+    },
+    {
+      "id": "n142",
+      "position": {
+        "x": -931.3624880637044,
+        "y": -1163.2073442282426
+      },
+      "caption": "Breads",
+      "labels": [
+        "Course"
+      ],
+      "properties": {
+        "Name": "Breads"
+      },
+      "style": {
+        "node-color": "#808900"
+      }
+    },
+    {
+      "id": "n143",
+      "position": {
+        "x": -1114.0449526629322,
+        "y": -1163.2073442282426
+      },
+      "caption": "Breakfast and Brunch",
+      "labels": [
+        "Course"
+      ],
+      "properties": {
+        "Name": "Breakfast and Brunch"
+      },
+      "style": {
+        "node-color": "#808900"
+      }
+    },
+    {
+      "id": "n144",
+      "position": {
+        "x": -896.8758584866787,
+        "y": -1331.9088050252963
+      },
+      "caption": "Cocktails",
+      "labels": [
+        "Course"
+      ],
+      "properties": {
+        "Name": "Cocktails"
+      },
+      "style": {
+        "node-color": "#808900"
+      }
+    },
+    {
+      "id": "n145",
+      "position": {
+        "x": -824.2357950474556,
+        "y": -1553.2807486598563
+      },
+      "caption": "Alcoholic Drinks",
+      "labels": [
+        "Course"
+      ],
+      "properties": {
+        "Name": "Alcoholic Drinks"
+      },
+      "style": {
+        "node-color": "#808900"
+      }
+    },
+    {
+      "id": "n146",
+      "position": {
+        "x": -1137.702138534878,
+        "y": -1553.2807486598563
+      },
+      "caption": "Mocktails",
+      "labels": [
+        "Course"
+      ],
+      "properties": {
+        "Name": "Mocktails"
+      },
+      "style": {
+        "node-color": "#808900"
+      }
+    },
+    {
+      "id": "n147",
+      "position": {
+        "x": -1336.6928939077125,
+        "y": -966.5308744871143
+      },
+      "caption": "Condiments and Sauces",
+      "labels": [
+        "Course"
+      ],
+      "properties": {
+        "Name": "Condiments and Sauces"
+      },
+      "style": {
+        "node-color": "#808900"
+      }
+    },
+    {
+      "id": "n148",
+      "position": {
+        "x": -1114.0449526629322,
+        "y": -985.6546796296027
+      },
+      "caption": "Desserts",
+      "labels": [
+        "Course"
+      ],
+      "properties": {
+        "Name": "Desserts"
+      },
+      "style": {
+        "node-color": "#808900"
+      }
+    },
+    {
+      "id": "n149",
+      "position": {
+        "x": -931.3624880637044,
+        "y": -490.2085003840491
+      },
+      "caption": "Lunch",
+      "labels": [
+        "Course"
+      ],
+      "properties": {
+        "Name": "Lunch"
+      },
+      "style": {
+        "node-color": "#808900"
+      }
+    },
+    {
+      "id": "n150",
+      "position": {
+        "x": -471.7039025357516,
+        "y": -1412.9655218975688
+      },
+      "caption": "Main Dishes",
+      "labels": [
+        "Course"
+      ],
+      "properties": {
+        "Name": "Main Dishes"
+      },
+      "style": {
+        "node-color": "#808900"
+      }
+    },
+    {
+      "id": "n151",
+      "position": {
+        "x": -1227.4991241392358,
+        "y": -830.2046366249463
+      },
+      "caption": "Salads",
+      "labels": [
+        "Course"
+      ],
+      "properties": {
+        "Name": "Salads"
+      },
+      "style": {
+        "node-color": "#808900"
+      }
+    },
+    {
+      "id": "n152",
+      "position": {
+        "x": -1124.5641706041624,
+        "y": -552.8515807372111
+      },
+      "caption": "Side Dishes",
+      "labels": [
+        "Course"
+      ],
+      "properties": {
+        "Name": "Side Dishes"
+      },
+      "style": {
+        "node-color": "#808900"
+      }
+    },
+    {
+      "id": "n153",
+      "position": {
+        "x": -1295.6473649349139,
+        "y": -634.3467227823414
+      },
+      "caption": "Snacks",
+      "labels": [
+        "Course"
+      ],
+      "properties": {
+        "Name": "Snacks"
+      },
+      "style": {
+        "node-color": "#808900"
+      }
+    },
+    {
+      "id": "n154",
+      "position": {
+        "x": -1470.3746833694493,
+        "y": -776.0146894932824
+      },
+      "caption": "Soups",
+      "labels": [
+        "Course"
+      ],
+      "properties": {
+        "Name": "Soups"
+      },
+      "style": {
+        "node-color": "#808900"
+      }
+    },
+    {
+      "id": "n155",
+      "position": {
+        "x": -1651.119626559801,
+        "y": -48.20712354476794
+      },
+      "caption": "Microwaving",
+      "labels": [
+        "Technique"
+      ],
+      "properties": {
+        "Name": "Microwaving"
+      },
+      "style": {
+        "node-color": "#fcdc00",
+        "caption-color": "#000000",
+        "label-color": "#000000"
+      }
+    },
+    {
+      "id": "n156",
+      "position": {
+        "x": -1818.544296024864,
+        "y": -862.0539448737692
+      },
+      "caption": "Sauteing",
+      "labels": [
+        "Technique"
+      ],
+      "properties": {
+        "Name": "Sauteing"
+      },
+      "style": {
+        "node-color": "#fcdc00",
+        "caption-color": "#000000",
+        "label-color": "#000000"
+      }
+    },
+    {
+      "id": "n157",
+      "position": {
+        "x": -1973.2596378846033,
+        "y": -805.5111819287188
+      },
+      "caption": "Frying",
+      "labels": [
+        "Technique"
+      ],
+      "properties": {
+        "Name": "Frying"
+      },
+      "style": {
+        "node-color": "#fcdc00",
+        "caption-color": "#000000",
+        "label-color": "#000000"
+      }
+    },
+    {
+      "id": "n158",
+      "position": {
+        "x": -2136.9464628270393,
+        "y": -736.9182841174575
+      },
+      "caption": "Air Frying",
+      "labels": [
+        "Technique"
+      ],
+      "properties": {
+        "Name": "Air Frying"
+      },
+      "style": {
+        "node-color": "#fcdc00",
+        "caption-color": "#000000",
+        "label-color": "#000000"
+      }
+    },
+    {
+      "id": "n159",
+      "position": {
+        "x": -2053.8183793445455,
+        "y": -584.1122562926176
+      },
+      "caption": "Stir Frying",
+      "labels": [
+        "Technique"
+      ],
+      "properties": {
+        "Name": "Stir Frying"
+      },
+      "style": {
+        "node-color": "#fcdc00",
+        "caption-color": "#000000",
+        "label-color": "#000000"
+      }
+    },
+    {
+      "id": "n160",
+      "position": {
+        "x": -2246.961726656314,
+        "y": -490.2085003840491
+      },
+      "caption": "Poaching",
+      "labels": [
+        "Technique"
+      ],
+      "properties": {
+        "Name": "Poaching"
+      },
+      "style": {
+        "node-color": "#fcdc00",
+        "caption-color": "#000000",
+        "label-color": "#000000"
+      }
+    },
+    {
+      "id": "n161",
+      "position": {
+        "x": -2162.580264687743,
+        "y": -351.08929180992436
+      },
+      "caption": "Braising",
+      "labels": [
+        "Technique"
+      ],
+      "properties": {
+        "Name": "Braising"
+      },
+      "style": {
+        "node-color": "#fcdc00",
+        "caption-color": "#000000",
+        "label-color": "#000000"
+      }
+    },
+    {
+      "id": "n162",
+      "position": {
+        "x": -2343.7066295329946,
+        "y": -269.16799776522333
+      },
+      "caption": "Steaming",
+      "labels": [
+        "Technique"
+      ],
+      "properties": {
+        "Name": "Steaming"
+      },
+      "style": {
+        "node-color": "#fcdc00",
+        "caption-color": "#000000",
+        "label-color": "#000000"
+      }
+    },
+    {
+      "id": "n163",
+      "position": {
+        "x": -2190.597935676319,
+        "y": -167.22800599305202
+      },
+      "caption": "Slow Cooking",
+      "labels": [
+        "Technique"
+      ],
+      "properties": {
+        "Name": "Slow Cooking"
+      },
+      "style": {
+        "node-color": "#fcdc00",
+        "caption-color": "#000000",
+        "label-color": "#000000"
+      }
+    },
+    {
+      "id": "n164",
+      "position": {
+        "x": -2343.7066295329946,
+        "y": -16.607019106177063
+      },
+      "caption": "Pressure Cookiing",
+      "labels": [
+        "Technique"
+      ],
+      "properties": {
+        "Name": "Pressure Cooking"
+      },
+      "style": {
+        "node-color": "#fcdc00",
+        "caption-color": "#000000",
+        "label-color": "#000000"
+      }
+    },
+    {
+      "id": "n165",
+      "position": {
+        "x": -2136.9464628270393,
+        "y": 25.12608358080714
+      },
+      "caption": "Boiling",
+      "labels": [
+        "Technique"
+      ],
+      "properties": {
+        "Name": "Boiling"
+      },
+      "style": {
+        "node-color": "#fcdc00",
+        "caption-color": "#000000",
+        "label-color": "#000000"
+      }
+    },
+    {
+      "id": "n166",
+      "position": {
+        "x": -2215.9990359485837,
+        "y": 204.51444594278007
+      },
+      "caption": "Sous Vide",
+      "labels": [
+        "Technique"
+      ],
+      "properties": {
+        "Name": "Sous Vide"
+      },
+      "style": {
+        "node-color": "#fcdc00",
+        "caption-color": "#000000",
+        "label-color": "#000000"
+      }
+    },
+    {
+      "id": "n167",
+      "position": {
+        "x": -700.4468251202153,
+        "y": 13.18887531139103
+      },
+      "caption": "Food Preparation",
+      "labels": [
+        "Technique"
+      ],
+      "properties": {
+        "Name": "Food Preparation"
+      },
+      "style": {
+        "node-color": "#fcdc00",
+        "caption-color": "#4d4d4d",
+        "label-color": "#000000"
+      }
+    },
+    {
+      "id": "n168",
+      "position": {
+        "x": -1954.8601153254747,
+        "y": 169.90742609622004
+      },
+      "caption": "Smoking",
+      "labels": [
+        "Technique"
+      ],
+      "properties": {
+        "Name": "Smoking"
+      },
+      "style": {
+        "node-color": "#fcdc00",
+        "caption-color": "#000000",
+        "label-color": "#000000"
+      }
+    },
+    {
+      "id": "n169",
+      "position": {
+        "x": -2053.8183793445455,
+        "y": 343.6573330767772
+      },
+      "caption": "Broiling",
+      "labels": [
+        "Technique"
+      ],
+      "properties": {
+        "Name": "Broiling"
+      },
+      "style": {
+        "node-color": "#fcdc00",
+        "caption-color": "#000000",
+        "label-color": "#000000"
+      }
+    },
+    {
+      "id": "n170",
+      "position": {
+        "x": -2102.966865647854,
+        "y": 545.4809089996123
+      },
+      "caption": "Baking",
+      "labels": [
+        "Technique"
+      ],
+      "properties": {
+        "Name": "Baking"
+      },
+      "style": {
+        "node-color": "#fcdc00",
+        "caption-color": "#000000",
+        "label-color": "#000000"
+      }
+    },
+    {
+      "id": "n171",
+      "position": {
+        "x": -1847.2334106090423,
+        "y": 554.0213509852724
+      },
+      "caption": "Roasting",
+      "labels": [
+        "Technique"
+      ],
+      "properties": {
+        "Name": "Roasting"
+      },
+      "style": {
+        "node-color": "#fcdc00",
+        "caption-color": "#000000",
+        "label-color": "#000000"
+      }
+    },
+    {
+      "id": "n172",
+      "position": {
+        "x": -1651.119626559801,
+        "y": 532.1064254153846
+      },
+      "caption": "Grilling",
+      "labels": [
+        "Technique"
+      ],
+      "properties": {
+        "Name": "Grilling"
+      },
+      "style": {
+        "node-color": "#fcdc00",
+        "caption-color": "#000000",
+        "label-color": "#000000"
+      }
+    },
+    {
+      "id": "n173",
+      "position": {
+        "x": -1492.1431936988677,
+        "y": 482.8582155456281
+      },
+      "caption": "Drying",
+      "labels": [
+        "Technique"
+      ],
+      "properties": {
+        "Name": "drying"
+      },
+      "style": {
+        "node-color": "#fcdc00",
+        "caption-color": "#000000",
+        "label-color": "#000000"
+      }
+    },
+    {
+      "id": "n174",
+      "position": {
+        "x": -1437.191204283906,
+        "y": 629.1655903743059
+      },
+      "caption": "Canning",
+      "labels": [
+        "Technique"
+      ],
+      "properties": {
+        "Name": "Canning"
+      },
+      "style": {
+        "node-color": "#fcdc00",
+        "caption-color": "#4d4d4d",
+        "label-color": "#000000"
+      }
+    },
+    {
+      "id": "n175",
+      "position": {
+        "x": -1204.3799414534917,
+        "y": 497.38830162781954
+      },
+      "caption": "Pickling",
+      "labels": [
+        "Technique"
+      ],
+      "properties": {
+        "Name": "Pickling"
+      },
+      "style": {
+        "node-color": "#fcdc00",
+        "caption-color": "#4d4d4d",
+        "label-color": "#000000"
+      }
+    },
+    {
+      "id": "n176",
+      "position": {
+        "x": -946.6457975926178,
+        "y": 233.63267207457068
+      },
+      "caption": "Brining",
+      "labels": [
+        "Technique"
+      ],
+      "properties": {
+        "Name": "Brining"
+      },
+      "style": {
+        "node-color": "#fcdc00",
+        "caption-color": "#4d4d4d",
+        "label-color": "#000000"
+      }
+    },
+    {
+      "id": "n177",
+      "position": {
+        "x": -908.549403446233,
+        "y": 373.63311415813564
+      },
+      "caption": "Freezing",
+      "labels": [
+        "Technique"
+      ],
+      "properties": {
+        "Name": "Freezing"
+      },
+      "style": {
+        "node-color": "#fcdc00",
+        "caption-color": "#4d4d4d",
+        "label-color": "#000000"
+      }
+    },
+    {
+      "id": "n178",
+      "position": {
+        "x": -700.4468251202153,
+        "y": 343.6573330767772
+      },
+      "caption": "Marinating",
+      "labels": [
+        "Technique"
+      ],
+      "properties": {
+        "Name": "Marinating"
+      },
+      "style": {
+        "node-color": "#fcdc00",
+        "caption-color": "#4d4d4d",
+        "label-color": "#000000"
+      }
+    },
+    {
+      "id": "n179",
+      "position": {
+        "x": -573.1735397178103,
+        "y": 233.63267207457068
+      },
+      "caption": "No-Cook",
+      "labels": [
+        "Technique"
+      ],
+      "properties": {
+        "Name": "No-Cook"
+      },
+      "style": {
+        "node-color": "#fcdc00",
+        "caption-color": "#4d4d4d",
+        "label-color": "#000000"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "id": "n0",
+      "fromId": "n0",
+      "toId": "n1",
+      "type": "has_category",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n1",
+      "fromId": "n0",
+      "toId": "n2",
+      "type": "has_category",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n2",
+      "fromId": "n0",
+      "toId": "n3",
+      "type": "has_category",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n3",
+      "fromId": "n0",
+      "toId": "n4",
+      "type": "has_category",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n4",
+      "fromId": "n1",
+      "toId": "n5",
+      "type": "has_course",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n5",
+      "fromId": "n1",
+      "toId": "n6",
+      "type": "has_course",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n6",
+      "type": "has_technique",
+      "style": {},
+      "properties": {},
+      "fromId": "n2",
+      "toId": "n7"
+    },
+    {
+      "id": "n7",
+      "type": "has_technique",
+      "style": {},
+      "properties": {},
+      "fromId": "n7",
+      "toId": "n9"
+    },
+    {
+      "id": "n8",
+      "type": "has_technique",
+      "style": {},
+      "properties": {},
+      "fromId": "n7",
+      "toId": "n10"
+    },
+    {
+      "id": "n9",
+      "type": "has_technique",
+      "style": {},
+      "properties": {},
+      "fromId": "n7",
+      "toId": "n11"
+    },
+    {
+      "id": "n10",
+      "type": "has_technique",
+      "style": {},
+      "properties": {},
+      "fromId": "n2",
+      "toId": "n8"
+    },
+    {
+      "id": "n11",
+      "fromId": "n3",
+      "toId": "n12",
+      "type": "has_occasion_location",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n12",
+      "fromId": "n3",
+      "toId": "n13",
+      "type": "has_occasion_location",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n13",
+      "fromId": "n13",
+      "toId": "n14",
+      "type": "has_occasion_location",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n14",
+      "fromId": "n14",
+      "toId": "n15",
+      "type": "has_occasion",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n15",
+      "fromId": "n14",
+      "toId": "n16",
+      "type": "has_occasion",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n16",
+      "fromId": "n14",
+      "toId": "n17",
+      "type": "has_occasion",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n17",
+      "fromId": "n17",
+      "toId": "n18",
+      "type": "has_occasion",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n18",
+      "fromId": "n17",
+      "toId": "n19",
+      "type": "has_occasion",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n19",
+      "fromId": "n17",
+      "toId": "n20",
+      "type": "has_occasion",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n20",
+      "fromId": "n17",
+      "toId": "n21",
+      "type": "has_occasion",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n21",
+      "fromId": "n17",
+      "toId": "n22",
+      "type": "has_occasion",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n22",
+      "fromId": "n17",
+      "toId": "n23",
+      "type": "has_occasion",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n23",
+      "fromId": "n17",
+      "toId": "n24",
+      "type": "has_occasion",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n24",
+      "fromId": "n17",
+      "toId": "n25",
+      "type": "has_occasion",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n25",
+      "fromId": "n17",
+      "toId": "n26",
+      "type": "has_occasion",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n26",
+      "fromId": "n17",
+      "toId": "n27",
+      "type": "has_occasion",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n27",
+      "fromId": "n17",
+      "toId": "n28",
+      "type": "has_occasion",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n28",
+      "fromId": "n17",
+      "toId": "n29",
+      "type": "has_occasion",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n29",
+      "fromId": "n17",
+      "toId": "n30",
+      "type": "has_occasion",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n30",
+      "fromId": "n17",
+      "toId": "n31",
+      "type": "has_occasion",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n31",
+      "fromId": "n17",
+      "toId": "n32",
+      "type": "has_occasion",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n32",
+      "fromId": "n17",
+      "toId": "n33",
+      "type": "has_occasion",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n33",
+      "fromId": "n15",
+      "toId": "n34",
+      "type": "has_occasion",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n34",
+      "fromId": "n15",
+      "toId": "n35",
+      "type": "has_occasion",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n35",
+      "fromId": "n15",
+      "toId": "n36",
+      "type": "has_occasion",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n36",
+      "fromId": "n15",
+      "toId": "n37",
+      "type": "has_occasion",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n37",
+      "fromId": "n16",
+      "toId": "n38",
+      "type": "has_occasion",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n38",
+      "fromId": "n16",
+      "toId": "n39",
+      "type": "has_occasion",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n39",
+      "fromId": "n16",
+      "toId": "n40",
+      "type": "has_occasion",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n40",
+      "fromId": "n16",
+      "toId": "n41",
+      "type": "has_occasion",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n41",
+      "fromId": "n16",
+      "toId": "n42",
+      "type": "has_occasion",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n42",
+      "fromId": "n16",
+      "toId": "n43",
+      "type": "has_occasion",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n43",
+      "fromId": "n16",
+      "toId": "n44",
+      "type": "has_occasion",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n44",
+      "fromId": "n16",
+      "toId": "n45",
+      "type": "has_occasion",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n45",
+      "fromId": "n4",
+      "toId": "n46",
+      "type": "has_cuisine_type",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n46",
+      "fromId": "n4",
+      "toId": "n47",
+      "type": "has_cuisine_type",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n47",
+      "fromId": "n46",
+      "toId": "n48",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n48",
+      "fromId": "n46",
+      "toId": "n49",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n49",
+      "fromId": "n46",
+      "toId": "n50",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n50",
+      "fromId": "n47",
+      "toId": "n51",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n51",
+      "fromId": "n47",
+      "toId": "n52",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n52",
+      "fromId": "n47",
+      "toId": "n53",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n53",
+      "fromId": "n47",
+      "toId": "n54",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n54",
+      "fromId": "n47",
+      "toId": "n55",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n55",
+      "fromId": "n47",
+      "toId": "n56",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n56",
+      "fromId": "n47",
+      "toId": "n57",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n57",
+      "fromId": "n47",
+      "toId": "n58",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n58",
+      "fromId": "n51",
+      "toId": "n59",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n59",
+      "fromId": "n52",
+      "toId": "n59",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n60",
+      "fromId": "n51",
+      "toId": "n60",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n61",
+      "fromId": "n51",
+      "toId": "n61",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n62",
+      "fromId": "n60",
+      "toId": "n62",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n63",
+      "fromId": "n60",
+      "toId": "n63",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n64",
+      "fromId": "n60",
+      "toId": "n64",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n65",
+      "fromId": "n60",
+      "toId": "n65",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n66",
+      "fromId": "n60",
+      "toId": "n67",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n67",
+      "fromId": "n60",
+      "toId": "n68",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n68",
+      "fromId": "n52",
+      "toId": "n69",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n69",
+      "fromId": "n69",
+      "toId": "n70",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n70",
+      "fromId": "n69",
+      "toId": "n71",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n71",
+      "fromId": "n69",
+      "toId": "n72",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n72",
+      "fromId": "n69",
+      "toId": "n74",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n73",
+      "fromId": "n69",
+      "toId": "n73",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n74",
+      "fromId": "n52",
+      "toId": "n75",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n75",
+      "fromId": "n75",
+      "toId": "n76",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n76",
+      "fromId": "n75",
+      "toId": "n77",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n77",
+      "fromId": "n75",
+      "toId": "n78",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n78",
+      "fromId": "n75",
+      "toId": "n79",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n79",
+      "fromId": "n47",
+      "toId": "n80",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n80",
+      "fromId": "n80",
+      "toId": "n81",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n81",
+      "fromId": "n80",
+      "toId": "n82",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n82",
+      "fromId": "n80",
+      "toId": "n83",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n83",
+      "fromId": "n80",
+      "toId": "n84",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n84",
+      "fromId": "n80",
+      "toId": "n85",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n85",
+      "fromId": "n80",
+      "toId": "n86",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n86",
+      "fromId": "n53",
+      "toId": "n87",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n87",
+      "fromId": "n87",
+      "toId": "n88",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n88",
+      "fromId": "n87",
+      "toId": "n89",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n89",
+      "fromId": "n87",
+      "toId": "n90",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n90",
+      "fromId": "n87",
+      "toId": "n91",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n91",
+      "fromId": "n87",
+      "toId": "n92",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n92",
+      "fromId": "n53",
+      "toId": "n93",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n93",
+      "fromId": "n93",
+      "toId": "n94",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n94",
+      "fromId": "n93",
+      "toId": "n95",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n95",
+      "fromId": "n93",
+      "toId": "n96",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n96",
+      "fromId": "n53",
+      "toId": "n97",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n97",
+      "fromId": "n97",
+      "toId": "n98",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n98",
+      "fromId": "n53",
+      "toId": "n99",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n99",
+      "fromId": "n99",
+      "toId": "n100",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n100",
+      "fromId": "n53",
+      "toId": "n101",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n101",
+      "fromId": "n101",
+      "toId": "n102",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n102",
+      "fromId": "n101",
+      "toId": "n103",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n103",
+      "fromId": "n101",
+      "toId": "n104",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n104",
+      "fromId": "n101",
+      "toId": "n105",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n105",
+      "fromId": "n101",
+      "toId": "n106",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n106",
+      "fromId": "n54",
+      "toId": "n102",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n107",
+      "fromId": "n54",
+      "toId": "n103",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n108",
+      "fromId": "n54",
+      "toId": "n104",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n109",
+      "fromId": "n54",
+      "toId": "n105",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n110",
+      "fromId": "n54",
+      "toId": "n106",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n111",
+      "fromId": "n55",
+      "toId": "n107",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n112",
+      "fromId": "n55",
+      "toId": "n108",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n113",
+      "fromId": "n55",
+      "toId": "n109",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n114",
+      "fromId": "n55",
+      "toId": "n110",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n115",
+      "fromId": "n55",
+      "toId": "n111",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n116",
+      "fromId": "n111",
+      "toId": "n112",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n117",
+      "fromId": "n111",
+      "toId": "n113",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n118",
+      "fromId": "n56",
+      "toId": "n113",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n119",
+      "fromId": "n111",
+      "toId": "n114",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n120",
+      "fromId": "n56",
+      "toId": "n114",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n121",
+      "fromId": "n111",
+      "toId": "n115",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n122",
+      "fromId": "n56",
+      "toId": "n115",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n123",
+      "fromId": "n56",
+      "toId": "n116",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n124",
+      "fromId": "n110",
+      "toId": "n116",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n125",
+      "fromId": "n110",
+      "toId": "n117",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n126",
+      "fromId": "n110",
+      "toId": "n118",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n127",
+      "fromId": "n110",
+      "toId": "n119",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n128",
+      "fromId": "n109",
+      "toId": "n121",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n129",
+      "fromId": "n108",
+      "toId": "n122",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n130",
+      "fromId": "n108",
+      "toId": "n123",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n131",
+      "fromId": "n108",
+      "toId": "n124",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n132",
+      "fromId": "n108",
+      "toId": "n125",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n133",
+      "fromId": "n107",
+      "toId": "n126",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n134",
+      "fromId": "n107",
+      "toId": "n127",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n135",
+      "fromId": "n58",
+      "toId": "n128",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n136",
+      "fromId": "n58",
+      "toId": "n129",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n137",
+      "fromId": "n58",
+      "toId": "n130",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n138",
+      "fromId": "n58",
+      "toId": "n131",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n139",
+      "fromId": "n58",
+      "toId": "n132",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n140",
+      "fromId": "n129",
+      "toId": "n133",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n141",
+      "fromId": "n129",
+      "toId": "n134",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n142",
+      "fromId": "n129",
+      "toId": "n135",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n143",
+      "fromId": "n130",
+      "toId": "n136",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n144",
+      "fromId": "n131",
+      "toId": "n137",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n145",
+      "fromId": "n131",
+      "toId": "n138",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n146",
+      "fromId": "n131",
+      "toId": "n139",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n147",
+      "fromId": "n57",
+      "toId": "n140",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n148",
+      "fromId": "n57",
+      "toId": "n141",
+      "type": "has_cuisine",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n149",
+      "type": "has_course",
+      "style": {},
+      "properties": {},
+      "fromId": "n144",
+      "toId": "n145"
+    },
+    {
+      "id": "n150",
+      "type": "has_course",
+      "style": {},
+      "properties": {},
+      "fromId": "n144",
+      "toId": "n146"
+    },
+    {
+      "id": "n151",
+      "type": "has_course",
+      "style": {},
+      "properties": {},
+      "fromId": "n1",
+      "toId": "n150"
+    },
+    {
+      "id": "n152",
+      "type": "has_course",
+      "style": {},
+      "properties": {},
+      "fromId": "n1",
+      "toId": "n144"
+    },
+    {
+      "id": "n153",
+      "type": "has_course",
+      "style": {},
+      "properties": {},
+      "fromId": "n1",
+      "toId": "n142"
+    },
+    {
+      "id": "n154",
+      "type": "has_course",
+      "style": {},
+      "properties": {},
+      "fromId": "n1",
+      "toId": "n143"
+    },
+    {
+      "id": "n155",
+      "type": "has_course",
+      "style": {},
+      "properties": {},
+      "fromId": "n1",
+      "toId": "n148"
+    },
+    {
+      "id": "n156",
+      "type": "has_course",
+      "style": {},
+      "properties": {},
+      "fromId": "n1",
+      "toId": "n147"
+    },
+    {
+      "id": "n157",
+      "type": "has_course",
+      "style": {},
+      "properties": {},
+      "fromId": "n1",
+      "toId": "n151"
+    },
+    {
+      "id": "n158",
+      "type": "has_course",
+      "style": {},
+      "properties": {},
+      "fromId": "n1",
+      "toId": "n154"
+    },
+    {
+      "id": "n159",
+      "type": "has_course",
+      "style": {},
+      "properties": {},
+      "fromId": "n1",
+      "toId": "n153"
+    },
+    {
+      "id": "n160",
+      "type": "has_course",
+      "style": {},
+      "properties": {},
+      "fromId": "n1",
+      "toId": "n152"
+    },
+    {
+      "id": "n161",
+      "type": "has_course",
+      "style": {},
+      "properties": {},
+      "fromId": "n1",
+      "toId": "n149"
+    },
+    {
+      "id": "n162",
+      "type": "has_technique",
+      "style": {},
+      "properties": {},
+      "fromId": "n7",
+      "toId": "n155"
+    },
+    {
+      "id": "n163",
+      "type": "has_technique",
+      "style": {},
+      "properties": {},
+      "fromId": "n9",
+      "toId": "n156"
+    },
+    {
+      "id": "n164",
+      "type": "has_technique",
+      "style": {},
+      "properties": {},
+      "fromId": "n9",
+      "toId": "n157"
+    },
+    {
+      "id": "n165",
+      "type": "has_technique",
+      "style": {},
+      "properties": {},
+      "fromId": "n9",
+      "toId": "n158"
+    },
+    {
+      "id": "n166",
+      "type": "has_technique",
+      "style": {},
+      "properties": {},
+      "fromId": "n9",
+      "toId": "n159"
+    },
+    {
+      "id": "n167",
+      "type": "has_technique",
+      "style": {},
+      "properties": {},
+      "fromId": "n10",
+      "toId": "n160"
+    },
+    {
+      "id": "n168",
+      "type": "has_technique",
+      "style": {},
+      "properties": {},
+      "fromId": "n10",
+      "toId": "n161"
+    },
+    {
+      "id": "n169",
+      "type": "has_technique",
+      "style": {},
+      "properties": {},
+      "fromId": "n10",
+      "toId": "n162"
+    },
+    {
+      "id": "n170",
+      "type": "has_technique",
+      "style": {},
+      "properties": {},
+      "fromId": "n10",
+      "toId": "n163"
+    },
+    {
+      "id": "n171",
+      "type": "has_technique",
+      "style": {},
+      "properties": {},
+      "fromId": "n10",
+      "toId": "n164"
+    },
+    {
+      "id": "n172",
+      "type": "has_technique",
+      "style": {},
+      "properties": {},
+      "fromId": "n10",
+      "toId": "n165"
+    },
+    {
+      "id": "n173",
+      "type": "has_technique",
+      "style": {},
+      "properties": {},
+      "fromId": "n10",
+      "toId": "n166"
+    },
+    {
+      "id": "n174",
+      "type": "has_technique",
+      "style": {},
+      "properties": {},
+      "fromId": "n2",
+      "toId": "n167"
+    },
+    {
+      "id": "n175",
+      "type": "has_technique",
+      "style": {},
+      "properties": {},
+      "fromId": "n11",
+      "toId": "n168"
+    },
+    {
+      "id": "n176",
+      "type": "has_technique",
+      "style": {},
+      "properties": {},
+      "fromId": "n11",
+      "toId": "n169"
+    },
+    {
+      "id": "n177",
+      "type": "has_technique",
+      "style": {},
+      "properties": {},
+      "fromId": "n11",
+      "toId": "n170"
+    },
+    {
+      "id": "n178",
+      "type": "has_technique",
+      "style": {},
+      "properties": {},
+      "fromId": "n11",
+      "toId": "n171"
+    },
+    {
+      "id": "n179",
+      "type": "has_technique",
+      "style": {},
+      "properties": {},
+      "fromId": "n11",
+      "toId": "n172"
+    },
+    {
+      "id": "n180",
+      "type": "has_technique",
+      "style": {},
+      "properties": {},
+      "fromId": "n11",
+      "toId": "n173"
+    },
+    {
+      "id": "n181",
+      "type": "has_technique",
+      "style": {},
+      "properties": {},
+      "fromId": "n8",
+      "toId": "n173"
+    },
+    {
+      "id": "n182",
+      "type": "has_technique",
+      "style": {},
+      "properties": {},
+      "fromId": "n8",
+      "toId": "n174"
+    },
+    {
+      "id": "n183",
+      "type": "has_technique",
+      "style": {},
+      "properties": {},
+      "fromId": "n8",
+      "toId": "n175"
+    },
+    {
+      "id": "n184",
+      "type": "has_technique",
+      "style": {},
+      "properties": {},
+      "fromId": "n167",
+      "toId": "n176"
+    },
+    {
+      "id": "n185",
+      "type": "has_technique",
+      "style": {},
+      "properties": {},
+      "fromId": "n167",
+      "toId": "n177"
+    },
+    {
+      "id": "n186",
+      "type": "has_technique",
+      "style": {},
+      "properties": {},
+      "fromId": "n167",
+      "toId": "n178"
+    },
+    {
+      "id": "n187",
+      "type": "has_technique",
+      "style": {},
+      "properties": {},
+      "fromId": "n167",
+      "toId": "n179"
+    }
+  ]
+}
