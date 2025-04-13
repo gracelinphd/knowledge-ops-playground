@@ -28,7 +28,7 @@ Inconsistent annotations lead to noisy labels, which can severely degrade model 
 - **Peer Review + Tiered Oversight**: Set up experienced annotators to review new annotator work and flag uncertain cases. 
   - It's critical that **reviewers or labeling engineers have personally done the annotations themselves first**. This isn't just about empathy: hands-on experience builds intuition for ambiguous cases, strengthens training feedback, and ensures better alignment with evolving edge cases.
 
-- **Cross-Annotation Consistency**: review visually or semantically similar inputs across batches to ensure annotators are applying labels uniformly. This is especially useful for maintaining labeling integrity across variations in phrasing, lighting, or scene composition.
+- **Cross-Annotation Consistency**: Review visually or semantically similar inputs across batches to ensure annotators are applying labels uniformly. This is especially useful for maintaining labeling integrity across variations in phrasing, lighting, or scene composition.
 
 - **Communication Channels**: Use Slack or similar platforms for real-time clarification, feedback, and Q&A.
 
